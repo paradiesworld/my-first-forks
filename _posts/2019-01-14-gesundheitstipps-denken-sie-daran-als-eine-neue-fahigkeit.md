@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gesundheitstipps: Betrachten Sie es als eine neue Fähigkeit und nicht als Lösung
+title: Gesundheitstipps Betrachten Sie es als eine neue Fähigkeit und nicht als Lösung
 categories:
 - blog
 ---
@@ -30,3 +30,5 @@ Zuerst denken Sie daran, dass es eine reine Praxis ist. Berühren Sie sich nicht
 Zweitens, bleiben Sie präsent und bewusst, so dass Sie das Leben anpassen können, um diese Verhaltensweisen in Ihren Tag anzupassen. Kleine Anpassungen werden Ihnen helfen, mit der Fähigkeit komfortabler zu werden. 
 
 Schließlich, erkennen, wann Geschicklichkeitsbildung stattgefunden hat. Wie es in der Praxis weitergeht, sollten die Verhaltensweisen eher mit Leichtigkeit als mit Unbehagen in den Tag passen.
+
+```Quelle für Inhalte: Jae Berman, The Washington Post```
